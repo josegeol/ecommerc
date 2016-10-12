@@ -1,0 +1,180 @@
+
+---Upload files---
+Widget file was not uploaded. Error: El archivo está vacío. Por favor, sube algo con más sustancia. Este error puede que lo provoque que tu fichero php.ini tenga inhabilitadas las subidas o porque post_max_size esté definido más pequeño que el  upload_max_filesize en php.ini.
+
+---Upload files---
+Customizer file was not uploaded. Error: El archivo está vacío. Por favor, sube algo con más sustancia. Este error puede que lo provoque que tu fichero php.ini tenga inhabilitadas las subidas o porque post_max_size esté definido más pequeño que el  upload_max_filesize en php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2016/10/importable.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 7
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 8
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 9
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 10
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 11
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 12
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 13
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 14
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
+
+------
+Completed AJAX call number: 15
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XS
+[ERROR] Failed to import "retailer-product-1" (Multimedia)
+
